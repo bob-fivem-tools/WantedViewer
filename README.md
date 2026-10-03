@@ -6,7 +6,7 @@ FiveM「KataCity」の公開指名手配リストを、ゲーム画面の左端�
 ## ダウンロード
 
 **最新版の exe（この リンクは版が上がっても変わりません）**:
-https://github.com/evilborder/WantedViewer/releases/latest/download/WantedViewer.exe
+https://github.com/bob-fivem-tools/WantedViewer/releases/latest/download/WantedViewer.exe
 
 落として、好きな場所に置いて起動するだけです。インストールは不要です。版ごとのページは右側の **Releases** にあります。
 
